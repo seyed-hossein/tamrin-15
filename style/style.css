@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+}
+.parent img{
+    width: 1000px;
+    height: 1000px;
+    position: absolute;
+}
+.box-name{
+    width: 900px;
+    height: 900px;
+    position: absolute;
+    background-color: rgba(161, 161, 161, 0.353);
+    margin: 50px 50px;
+    border-radius: 10px;
+}
+.title{
+    color: rgb(150, 150, 0);
+    margin: 50px 230px;
+}
+.text{
+    color: rgb(206, 206, 206);
+    margin: 0 180px;
+    font-size: 15px;
+}
+.hr-line{
+    border: dotted;
+    
+}
+.name{
+    margin: auto 75px;
+    color: rgb(150, 150, 0);
+    padding-top: 20px;
+    }
+.box-first{
+    width: 200px;
+    height: 30px;
+    background-color: rgba(214, 214, 214, 0);
+    border: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    margin: -25px 220px;
+}
+.box-last{
+    width: 200px;
+    height: 30px;
+    background-color: rgba(214, 214, 214, 0);
+    border: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    margin: -25px 500px;
+}
+.first{
+    color: lightblue;
+    margin: 10px 590px;
+    position: absolute;
+    font-size: 15px;
+
+}
+.last{
+    color: lightblue;
+    margin: 10px 300px;
+    position: absolute;
+    font-size: 15px;
+}
+.email{
+    margin: auto 75px;
+    color: rgb(150, 150, 0);
+    padding-top: 70px;
+}
+.box-email{
+    width: 480px;
+    height: 30px;
+    background-color: rgba(214, 214, 214, 0);
+    border: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    margin: -25px 220px;
+}
+.phone{
+    margin: auto 75px;
+    color: rgb(150, 150, 0);
+    padding-top: 50px;
+}
+.box-1{
+    width: 140px;
+    height: 30px;
+    background-color: rgba(214, 214, 214, 0);
+    border: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    margin: -25px 220px;
+    color: #ffffff;
+    
+    }
+    .box-2{
+        width: 140px;
+        height: 30px;
+        background-color: rgba(214, 214, 214, 0);
+        border: 2px solid rgb(255, 255, 255);
+        position: absolute;
+        margin: -25px 390px;
+        color: #ffffff;
+        
+    }
+    .box-3{
+        width: 140px;
+        height: 30px;
+        background-color: rgba(214, 214, 214, 0);
+        border: 2px solid rgb(255, 255, 255);
+        position: absolute;
+        margin: -25px 560px;
+        color: #ffffff;
+        
+    }
+    .space{
+        position: absolute;
+        color: #ffffff;
+        margin: -25px 540px;
+    }
+    .space-2{
+        position: absolute;
+        color: #ffffff;
+        margin: -25px 370px;
+    }
+    .tag{
+        margin: 35px auto;
+    }
+    .terms{
+        margin: auto 75px;
+        color: rgb(150, 150, 0);
+        padding-top: 50px;
+    }
+    .terms-checkbox{
+        color: #ffffff;
+        margin: -20px 220px;
+    }
+    .quantity-checkbox{
+        color: #ffffff;
+        margin: -20px 220px;
+    }
+    .select{
+        width: 50px;
+        height: 30px;
+        margin: 50px 220px;
+        color: #ffffff;
+        background-color: #ffffff00;
+    }
+    .box-total{
+        width: 300px;
+        height: 70px;
+        background-color: #5e5d5d5c;
+        position: absolute;
+        margin: 650px 350px;
+        border-radius: 10px;
+    }
+    .total-text{
+        color: white;
+        padding: 5px;
+        font-size: 25px;
+    }
+    .total-cost{
+        color: white;
+        padding: 5px;
+        position: absolute;
+        margin: -33px 220px;
+    }
+    .hr-end{
+        background-color: #000;
+        margin-top: -5px;
+    }
+    .none{
+        color: white;
+        padding: 5px;
+        font-size: 15px;
+    }
+    .none-cost{
+        color: white;
+        padding: 5px;
+        position: absolute;
+        margin: -30px 230px;
+        font-size: 15px;
+    }
+    .submit{
+        width: 300px;
+        height: 70px;
+        background-color: #a75400;
+        position: absolute;
+        margin: 750px 350px;
+        border-radius: 10px;
+    }
+    .submit-text{
+        text-align: center;
+        font-size: 35px;
+        margin-top: 15px;
+    }
