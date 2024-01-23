@@ -42,6 +42,7 @@
 .box-first{
     width: 200px;
     height: 30px;
+    
     background-color: rgba(214, 214, 214, 0);
     border: 2px solid rgb(255, 255, 255);
     position: absolute;
@@ -141,6 +142,7 @@
     .quantity-checkbox{
         color: #ffffff;
         margin: -20px 220px;
+        position: absolute;
     }
     .select{
         width: 50px;
